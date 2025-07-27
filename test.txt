@@ -1,3 +1,5 @@
 ceci est juste un test.
 une ligne
 tsy aiko
+password=test1234
+aslkdjf81jhwjndxclrk
