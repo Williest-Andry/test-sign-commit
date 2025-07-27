@@ -3,3 +3,4 @@ une ligne
 tsy aiko
 password=test1234
 aslkdjf81jhwjndxclrk
+API_KEY = "alksdjfkaj7q8weir9qwuerojfdalskdjfflkjasdflkjasdf" 
